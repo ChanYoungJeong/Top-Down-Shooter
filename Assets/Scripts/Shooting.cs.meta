@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3e7c51311e5b869459ad6d5e9dc7174d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hud: {instanceID: 0}
+  - firePoint: {instanceID: 0}
+  - bulletPerfab: {instanceID: 0}
+  - Rifle_bulletPerfab: {instanceID: 0}
+  - Shotgun_bulletPerfab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
